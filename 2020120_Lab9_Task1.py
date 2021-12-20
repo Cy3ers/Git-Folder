@@ -40,3 +40,7 @@ print (f"Original Text: {dec}")
 
 print("This is a Change!")
 print("Hello World!")
+
+print("These are changes from GIT UI!")
+print("Hello again World!")
+
