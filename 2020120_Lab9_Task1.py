@@ -33,14 +33,14 @@ dec = dcprt(enc,s)
 print (f"Original Text: {text}")
 print (f"Shift : {s}")
 print (f"Encrypted Text: {enc}")
-print ("\n")
+print ("\n",s)
 print (f"Encrypted Text : {enc}")
 print (f"Shift : {s}")
 print (f"Original Text: {dec}")
 
 print("This is a Change!")
-a = input()
-
-print("These are changes from GIT UI!")
+a =int( input())
+print(a)
+print("These are changes from GIT UI!"+str(2))
 print("Hello again World!")
 
