@@ -37,3 +37,6 @@ print ("\n")
 print (f"Encrypted Text : {enc}")
 print (f"Shift : {s}")
 print (f"Original Text: {dec}")
+
+print("This is a Change!")
+print("Hello World!")
