@@ -29,7 +29,8 @@ print ("\n")
 
 enc = encrpt(text,s)
 dec = dcprt(enc,s)
-
+a =int( input())
+print(a,'sll oin youtr')
 print (f"Original Text: {text}")
 print (f"Shift : {s}")
 print (f"Encrypted Text: {enc}")
@@ -40,8 +41,7 @@ print (f"Shift : {s}")
 print (f"Original Text: {dec}")
 
 print("This is a Change!@!!!!!!!")
-a =int( input())
-print(a)
+
 print("These are changes from GIT UI!"+str(2))
 print("Hello again World!")
 
