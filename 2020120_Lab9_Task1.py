@@ -34,6 +34,7 @@ print (f"Original Text: {text}")
 print (f"Shift : {s}")
 print (f"Encrypted Text: {enc}")
 li = [i+i for i in range(10)]
+print(li)
 print (f"Encrypted Text : {enc}")
 print (f"Shift : {s}")
 print (f"Original Text: {dec}")
